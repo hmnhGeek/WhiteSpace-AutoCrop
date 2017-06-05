@@ -1,5 +1,5 @@
 # WhiteSpace-AutoCrop
-Remove unnecessary white space from the background of an image.
+Removes unnecessary white space from the background of an image.
 
 ## How to use?
   1. First clone this repository and extract the files in a folder.
