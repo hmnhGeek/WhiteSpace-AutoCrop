@@ -14,4 +14,8 @@ Let us see a sample.
 
 ## Sample
 This image was given to the app. ![screenshot](https://github.com/hmnhGeek/WhiteSpace-AutoCrop/blob/master/Images/3.png)
+
 And the output was this. ![screenshot](https://github.com/hmnhGeek/WhiteSpace-AutoCrop/blob/master/Images/done.jpg)
+
+
+I know, the output seems exactly similar to the input, but that's not the case. Actually, being a whitespaced background of orignal and resultant image both seems to be same. You can check the input image yourself at this link: https://github.com/hmnhGeek/WhiteSpace-AutoCrop/blob/master/Images/3.png and the output result here on this link: https://github.com/hmnhGeek/WhiteSpace-AutoCrop/blob/master/Images/done.jpg
