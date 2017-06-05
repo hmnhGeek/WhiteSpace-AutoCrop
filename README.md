@@ -9,3 +9,9 @@ Remove unnecessary white space from the background of an image.
   5. Now click "Confirm Auto Crop" to start automatic cropping of whitespace backgrond.
   6. A dialog will appear which will ask you to tell the saving location. ![screenshot](https://github.com/hmnhGeek/WhiteSpace-AutoCrop/blob/master/Images/save.png)
   7. After the processing is done, the cropped image will be saved automatically on the specified location. ![screenshot](https://github.com/hmnhGeek/WhiteSpace-AutoCrop/blob/master/Images/result.png)
+
+Let us see a sample.
+
+## Sample
+This image was given to the app. ![screenshot](https://github.com/hmnhGeek/WhiteSpace-AutoCrop/blob/master/Images/3.png)
+And the output was this. ![screenshot](https://github.com/hmnhGeek/WhiteSpace-AutoCrop/blob/master/Images/done.jpg)
